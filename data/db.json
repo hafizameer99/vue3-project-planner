@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage",
+      "details": "homepage",
+      "complete": true
+    },
+    {
+      "title": "make food",
+      "details": "make food for us",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
